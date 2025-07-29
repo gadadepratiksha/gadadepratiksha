@@ -82,30 +82,6 @@ I'm a motivated and detail-oriented data enthusiast with a passion for uncoverin
 
 ---
 
-## 💼 Featured Projects
-
-### 📊 Amazon Review Sentiment Analysis  
-Built a sentiment classifier using Word2Vec embeddings to analyze product reviews.  
-🔗 *[Link to Project]*
-
-### 🌦️ Climate Forecasting with LSTM  
-Applied RNN-based models to predict weather patterns using historical data.  
-🔗 *[Link to Project]*
-
----
-
-## 📈 GitHub Stats
-
-![Pratiksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
----
-
-## 📄 Resume
-
-📎 [Click Here to View My Resume](#) *(Add your resume link)*
-
----
-
 ## 🔗 Let's Connect!
 www.linkedin.com/in/pratiksha-gadade
 📫 Email: gadadepratiksha20@gmail.com
