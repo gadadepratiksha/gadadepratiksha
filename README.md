@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Pratiksha Gadade
+# 👋 Hi there, I'm Pratiksha Gadade
 
 🎓 Master's in Computer Science  
 📊 Aspiring Data Analyst | Python • SQL • Power BI • Excel • Statistics  
@@ -40,8 +40,8 @@ I'm a motivated and detail-oriented data enthusiast with a passion for uncoverin
 
 ---
 
-## 🔗 Let's Connect!
-www.linkedin.com/in/pratiksha-gadade
-📫 Email: gadadepratiksha20@gmail.com
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](www.linkedin.com/in/pratiksha-gadade)
 
 
