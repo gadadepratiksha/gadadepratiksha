@@ -1,26 +1,20 @@
 
 # 👋 Hi there, I'm Pratiksha Gadade
-
-
-Hi! I'm Pratiksha – a Master's graduate in Computer Science and currently upskilling in **Data Analytics** at Masai. I'm passionate about turning raw data into actionable insights, and I love working on real-world problems using tools like **Python**, **SQL**, **Excel**, and **Power BI**.
+Aspiring Data Analyst | Python • SQL • Power BI • Excel • Statistics 
 
 ---
 
-## 🔧 Skills
+I'm a 🎓 Master's graduate in Computer Science and currently upskilling in **Data Analytics** at Masai. I'm passionate about turning raw data into actionable insights, and I love working on real-world problems using tools like **Python**, **SQL**, **Excel**, and **Power BI**
 
-- **Languages**: Python, SQL
-- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
-- **Visualization**: Power BI Excel
-- **Databases**: MySQL
-- **Tools**: Jupyter Notebook, GitHub
-- **Soft Skills**: Problem Solving, Communication, Collaboration
+- 🎓 Master's in Computer Science
+- 🛠 Skilled in Python, EDA, SQL, Power BI, Excel, Statistical Analysis and Machine Learning
+- 💡 Keep interest in data visualization, data analysis, dashboard creation, and generating actionable insights from raw data.
+- 🚀 Actively looking for roles in Data Analytics 
 
+---
 
-## 📈 Currently Learning
-
-- Advanced Tableau and SQL Queries  
-- Machine Learning Advanced  
-- Real-world analytics case studies
+## 📄 Resume  
+📎 [Click Here to View My Resume](#)
 
 
 ### 📫 Let's Connect
