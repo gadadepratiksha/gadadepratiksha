@@ -1,44 +1,27 @@
 
 # 👋 Hi there, I'm Pratiksha Gadade
 
-🎓 Master's in Computer Science  
-📊 Aspiring Data Analyst | Python • SQL • Power BI • Excel • Statistics  
-🎯 Currently learning at Masai School  
-📍 India  
+
+Hi! I'm Pratiksha – a Master's graduate in Computer Science and currently upskilling in **Data Analytics** at Masai. I'm passionate about turning raw data into actionable insights, and I love working on real-world problems using tools like **Python**, **SQL**, **Excel**, and **Power BI**.
 
 ---
 
-## 🙋‍♀️ About Me
+## 🔧 Skills
 
-I'm a motivated and detail-oriented data enthusiast with a passion for uncovering insights from raw data. I enjoy solving real-world problems using analytics and visualization.
+- **Languages**: Python, SQL
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
+- **Visualization**: Power BI Excel
+- **Databases**: MySQL
+- **Tools**: Jupyter Notebook, GitHub
+- **Soft Skills**: Problem Solving, Communication, Collaboration
 
-- 💻 Completed Master's in Computer Science  
-- 📚 Currently pursuing Data Analytics program at Masai School  
-- 💡 Interested in business intelligence, data storytelling & decision-making  
-- 🌱 Constantly learning new tools and techniques to grow in the field  
-- 🌟 Actively looking for opportunities in data analytics roles
 
----
+## 📈 Currently Learning
 
-## 🎯 Skills
+- Advanced Tableau and SQL Queries  
+- Machine Learning Advanced  
+- Real-world analytics case studies
 
-- ✅ Data Cleaning & Preprocessing  
-- ✅ Exploratory Data Analysis (EDA)  
-- ✅ Data Visualization & Dashboarding  
-- ✅ A/B Testing, Hypothesis Testing  
-- ✅ Business Problem Solving  
-- ✅ Communication & Storytelling  
-
----
-
-## 🧰 Tools & Technologies
-
-- **Languages**: Python, SQL  
-- **Tools**: Power BI, Excel, Google Sheets  
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Platforms**: Google Cloud, Jupyter Notebook, GitHub  
-
----
 
 ### 📫 Let's Connect
 
