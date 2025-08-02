@@ -23,10 +23,6 @@ I'm a 🎓 Master's graduate in Computer Science and currently upskilling in **D
 
 ---
 
-### 📄 Resume  
-📎 [Resume](#)
-
-
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](www.linkedin.com/in/pratiksha-gadade)
